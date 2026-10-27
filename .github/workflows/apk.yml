@@ -1,4 +1,4 @@
-name: Build Accessibility Menu APK
+name: Build EasyAccess APK
 
 permissions:
   contents: write
